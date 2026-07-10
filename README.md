@@ -48,5 +48,3 @@ This project focuses on cleaning, analyzing, and visualizing mutual fund data to
 👨‍💻 Author
 
 Ajeet Singh
-
-⭐ If you found this project useful, feel free to give it a star!
