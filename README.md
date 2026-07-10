@@ -6,7 +6,7 @@ A complete Data Analytics project that transforms raw mutual fund data into inte
 
 This project focuses on cleaning, analyzing, and visualizing mutual fund data to evaluate industry trends, fund performance, and investment risk through an interactive Power BI dashboard.
 
- 🛠️ Tech Stack
+🛠️ Tech Stack
 
 * Python (Pandas, NumPy)
 * SQL (SQLite)
